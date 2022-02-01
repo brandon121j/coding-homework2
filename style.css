@@ -1,0 +1,33 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    width: 500px;
+}
+
+#upper {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+
+span {
+    font-weight: bold;
+    font-size: x-large;
+}
+
