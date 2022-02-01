@@ -31,3 +31,22 @@ span {
     font-size: x-large;
 }
 
+section {
+    overflow: auto;
+}
+
+#stars {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    /* max-width: 250px; */
+}
+
+img {
+    max-height: 25px;
+    max-width: 25px;
+    padding: 15px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    display: inline-block;
+}
